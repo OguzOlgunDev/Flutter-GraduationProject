@@ -1,6 +1,7 @@
 # harsatapp
 
 A new Flutter project.
+This code contrabited by Oğuz Olgun, Şeyda Sıla Kara, Ayşenur Sucu
 
 ## Getting Started
 

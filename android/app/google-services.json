@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804223450200",
+    "firebase_url": "https://harsat-1f4d3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "harsat-1f4d3",
+    "storage_bucket": "harsat-1f4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804223450200:android:0693aaf835944df21c5e2d",
+        "android_client_info": {
+          "package_name": "com.example.harsatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804223450200-77cbhc4ogfcfok5nm6hrfuqi806s6lr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr75Hqz4LbzwKRRnOWiB1HGdeO42irMYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804223450200-77cbhc4ogfcfok5nm6hrfuqi806s6lr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804223450200-3odhsjhds9rv17fos633pgr00d5emnc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.harsatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
